@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Jul 26 13:26:49 2024
+# Process ID: 23792
+# Current directory: C:/Users/DELL/Desktop/new_project/new_project.runs/synth_1
+# Command line: vivado.exe -log top_processor.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_processor.tcl
+# Log file: C:/Users/DELL/Desktop/new_project/new_project.runs/synth_1/top_processor.vds
+# Journal file: C:/Users/DELL/Desktop/new_project/new_project.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-JJFTPAE
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+# CPU Frequency     :1800 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8448 MB
+# Swap memory       :18237 MB
+# Total Virtual     :26685 MB
+# Available Virtual :4242 MB
+#-----------------------------------------------------------
+source top_processor.tcl -notrace
